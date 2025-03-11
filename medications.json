@@ -1,0 +1,82 @@
+{
+    "headache": {
+      "medications": ["Paracetamol (Acetaminophen)", "Ibuprofen", "Aspirin", "Naproxen"],
+      "dosage_info": "Follow package instructions. Generally 1-2 tablets every 4-6 hours as needed."
+    },
+    "migraine": {
+      "medications": ["Sumatriptan", "Rizatriptan", "Eletriptan", "Naratriptan"],
+      "dosage_info": "Consult your doctor for appropriate dosage. Triptans are often prescribed for migraines."
+    },
+    "cold": {
+      "medications": ["Paracetamol", "Pseudoephedrine", "Dextromethorphan", "Phenylephrine", "Guaifenesin"],
+      "dosage_info": "Follow package instructions. Take as needed according to symptoms."
+    },
+    "fever": {
+      "medications": ["Paracetamol (Acetaminophen)", "Ibuprofen"],
+      "dosage_info": "Adults: 500-1000mg every 4-6 hours as needed. Do not exceed 4000mg in 24 hours."
+    },
+    "allergies": {
+      "medications": ["Cetirizine", "Loratadine", "Fexofenadine", "Azelastine", "Fluticasone (nasal spray)"],
+      "dosage_info": "Non-drowsy antihistamines typically once daily. Diphenhydramine may cause drowsiness."
+    },
+    "indigestion": {
+      "medications": ["Antacids (calcium carbonate, magnesium hydroxide)", "Omeprazole", "Esomeprazole", "Lansoprazole"],
+      "dosage_info": "Antacids as needed. For acid reducers (like Omeprazole), follow package instructions or consult your pharmacist."
+    },
+    "pain": {
+      "medications": ["Paracetamol", "Ibuprofen", "Naproxen", "Diclofenac"],
+      "dosage_info": "Follow package instructions. Take with food if using NSAIDs like Ibuprofen or Naproxen."
+    },
+    "cough": {
+      "medications": ["Dextromethorphan (dry cough)", "Guaifenesin (productive cough)", "Codeine (prescription, for severe cough)"],
+      "dosage_info": "Follow package instructions. Dry cough - suppressant. Productive cough - expectorant. Consult a doctor for severe cough."
+    },
+    "sore throat": {
+      "medications": ["Lozenges with Benzocaine or menthol", "Paracetamol", "Ibuprofen", "Throat sprays with antiseptic"],
+      "dosage_info": "Lozenges: One every 2-3 hours as needed. Pain relievers: follow package instructions."
+    },
+    "diarrhea": {
+      "medications": ["Loperamide", "Bismuth Subsalicylate"],
+      "dosage_info": "Follow package instructions. Stay hydrated. Do not use for more than 2 days."
+    },
+    "constipation": {
+      "medications": ["Psyllium husk", "Docusate sodium", "Bisacodyl", "Senna"],
+      "dosage_info": "Start with fiber supplements. If needed, proceed to stimulant laxatives. Follow package instructions."
+    },
+    "muscle pain": {
+      "medications": ["Ibuprofen", "Naproxen", "Topical creams with menthol or capsaicin"],
+      "dosage_info": "Oral medications: follow package instructions. Topical: apply 3-4 times daily to affected area."
+    },
+    "joint pain": {
+      "medications": ["Ibuprofen", "Naproxen", "Glucosamine", "Chondroitin", "Topical creams with Diclofenac or capsaicin"],
+      "dosage_info": "NSAIDs: follow package instructions. Supplements: typically taken daily. Topical: apply as needed."
+    },
+    "insomnia": {
+      "medications": ["Diphenhydramine", "Doxylamine", "Melatonin", "Temazepam (prescription)"],
+      "dosage_info": "Diphenhydramine/Doxylamine: follow package instructions. Melatonin: 0.5-5mg 30 minutes before bedtime. Consult a doctor for chronic insomnia."
+    },
+    "nausea and vomiting": {
+      "medications": ["Dimenhydrinate", "Meclizine", "Ondansetron (prescription)"],
+      "dosage_info": "Follow package instructions for over-the-counter options. Consult a doctor if symptoms are severe or persistent."
+    },
+    "heartburn": {
+      "medications": ["Antacids", "Omeprazole", "Esomeprazole", "Famotidine"],
+      "dosage_info": "Antacids as needed. For acid reducers, follow package instructions or consult your pharmacist."
+    },
+    "anxiety": {
+      "medications": ["Diazepam (prescription)", "Lorazepam (prescription)", "Buspirone (prescription)"],
+      "dosage_info": "Anxiety medications should be used under the guidance of a healthcare professional."
+    },
+    "depression": {
+      "medications": ["Sertraline (prescription)", "Fluoxetine (prescription)", "Citalopram (prescription)"],
+      "dosage_info": "Depression medications require a prescription and should be taken as directed by a doctor."
+    },
+    "acne": {
+      "medications": ["Benzoyl peroxide", "Salicylic acid", "Topical retinoids (prescription)"],
+      "dosage_info": "Follow product instructions. For prescription retinoids, consult a dermatologist."
+    },
+    "eczema": {
+      "medications": ["Hydrocortisone cream", "Topical calcineurin inhibitors (prescription)"],
+      "dosage_info": "Use hydrocortisone cream as directed. For stronger medications, consult a doctor or dermatologist."
+    }
+  }
